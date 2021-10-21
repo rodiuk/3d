@@ -1,0 +1,11 @@
+Model Information:
+* title:	HW_6 robotspide
+* source:	https://sketchfab.com/3d-models/hw-6-robotspide-c502e022a77e4f98bd435397619c2afa
+* author:	Vadim (vasateno) (https://sketchfab.com/mvasa69)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HW_6 robotspide" (https://sketchfab.com/3d-models/hw-6-robotspide-c502e022a77e4f98bd435397619c2afa) by Vadim (vasateno) (https://sketchfab.com/mvasa69) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
